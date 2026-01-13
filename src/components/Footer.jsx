@@ -13,7 +13,7 @@ const Footer = () => {
     const message = messageInput.value.trim();
     
     if (message) {
-      const whatsappMessage = `Hello Imam! 👋
+      const whatsappMessage = `Hello Ikhwan! 👋
 
 *Quick Message from your website:*
 ${message}
@@ -41,7 +41,7 @@ Sent from footer contact form`;
           <div className="col-lg-4 col-md-6">
             <div className="footer-widget">
               <div className="footer-logo">
-                <h3>Imam <span>Ariadi</span></h3>
+                <h3>Ikhwan <span>Fajar</span></h3>
                 <p>Web Developer</p>
               </div>
               <p className="footer-description">
@@ -59,7 +59,7 @@ Sent from footer contact form`;
                 </div>
                 <div className="contact-item">
                   <i className="fa fa-envelope"></i>
-                  <span>imam.ariadi@gmail.com</span>
+                  <span>Ikhwan.Fajar@gmail.com</span>
                 </div>
               </div>
             </div>
@@ -156,7 +156,7 @@ Sent from footer contact form`;
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-6">
               <p className="copyright">
-                © {currentYear} <span className="brand">Imam Ariadi</span>. All rights reserved.
+                © {currentYear} <span className="brand">Ikhwan Fajar Khatamy</span>. All rights reserved.
               </p>
             </div>
             <div className="col-lg-6 col-md-6">

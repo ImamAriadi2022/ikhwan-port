@@ -35,7 +35,7 @@ const Navbar = ({ isLoading }) => {
               transition: 'color 0.3s ease'
             }}
           >
-            Imam
+            Ikhwan
           </p>
         </a>
         
