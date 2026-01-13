@@ -207,7 +207,21 @@ const HeroSection = () => {
           </div>
           <div className="col-lg-6 col-md-6">
             <div className="banner-images" data-aos="fade-left">
-              <img src="/assets/img/ikhwan.jpeg" alt="Imam Ariadi" />
+              <img 
+                src="/assets/img/ikhwan.jpeg" 
+                alt="Ikhwan Fajar Khatamy" 
+                style={{
+                  width: '100%',
+                  maxWidth: '450px',
+                  height: 'auto',
+                  objectFit: 'cover',
+                  borderRadius: '10px',
+                  border: '8px solid #28a745',
+                  boxShadow: '0 10px 30px rgba(40, 167, 69, 0.3)',
+                  display: 'block',
+                  margin: '90px auto 0',
+                }}
+              />
             </div>
           </div>
         </div>

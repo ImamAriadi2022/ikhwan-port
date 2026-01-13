@@ -9,7 +9,7 @@ export const blogData = [
     date: 'December 15, 2024',
     category: 'Web',
     readTime: '8 min read',
-    author: 'Imam Ariadi',
+    author: 'Ikhwan Fajar Khatamy',
     tags: ['React', 'JavaScript', 'Frontend', 'Hooks'],
     articleUrl: 'https://medium.com/@imam-ariadi/react-hooks-complete-guide', // Direct link to article
     slug: 'react-hooks-complete-guide',
